@@ -25,6 +25,8 @@ Quality Reputation and Craftsmanship: Customers believe LVMH products represent 
 Revenue has declined from 86.1B Euros in 2023 to 80.8B euros in 2025, raising concerns that luxury demand weakness may be more persistent than expected. 
 LVMH is highly dependent on its Fashion & Leather Goods segment, which generates approximately 47% of revenue and 72% of operating profit. Any deterioration in the performance of key brands such as Louis Vuitton or Dior could have a disproportionate impact on profitability and cash flow. 
 LVMH's pricing power depends on perceived exclusivity. The widespread availability of counterfeit luxury products could reduce the exclusivity associated with LVMH's brands. 
+## Geographic Insight
+LVMH maintains a globally diversified revenue base, with Asia ex Japan, The United States, and Europe each contributing approximately 25% of revenue. This geographic diversification reduces dependence on any single consumer market. 
 ## Initial Investment Thesis
 LVMH appears to be a high-quality business with strong brand equity, substantial pricing power, and significant free cash flow generation. Despite recent revenue declines, the company generated 11.3 billion in free cash flow during 2025 and maintained strong profitability, particularly within its fashion and leather goods segment. The investment case largely depends on whether recent revenue weakness reflects a temporary slowdown in luxury demand or a mroe permanent deterioration in consumer interest.
 Further analysis is required to determine whether the current market valuation appropriately reflects LVMH's long-term cash flow potential and brand durability. 
