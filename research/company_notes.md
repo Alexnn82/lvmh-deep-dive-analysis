@@ -1,5 +1,5 @@
 # LVMH Company Notes
-Although LVMH operates across multiple luxury categories, the company's profitability is heavily concentrated in Fashion & Leather Goods. As a result, the long-term health of flagship brands such as Louis Vuitton and Dior is likely the single most important driver of future cash flow and valuation. 
+Although LVMH operates across multiple luxury categories, the company's profitability is heavily concentrated in Fashion & Leather Goods. As a result, the long-term health of flagship brands such as Louis Vuitton and Dior is likely the single most important driver of future cash flow and valuation. Revenue declined for two consecutive years, accelerating from -1.7% in 2024 to -4.5% in 2025. However, profitability remains strong, suggesting that the company's core brands retain substantial pricing power despite weaker sales trends. 
 ## Business Overview
 LVMH operates through five primary business segments: 
 Fashion & Leather Goods
